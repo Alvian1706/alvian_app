@@ -1,6 +1,6 @@
 @extends('layout.app')
 
-@section('title', 'Home - Portfolio')
+@section('title', 'Home - Portfolio Alvian')
 
 @section('styles')
 <style>
@@ -315,7 +315,7 @@
             <div class="col-lg-7">
                 <div class="hero-content">
                     <div class="hero-subtitle">👋 Halo, Selamat Datang</div>
-                    <h1 class="hero-title">Saya Seorang<br>Creative Developer</h1>
+                    <h1 class="hero-title">Saya Alvian<br>Seorang Creative Developer</h1>
                     <p class="hero-description">
                         Mengubah ide menjadi pengalaman digital yang indah dan fungsional. 
                         Spesialisasi dalam pengembangan web modern dengan fokus pada desain yang user-friendly.
@@ -356,7 +356,7 @@
             </div>
             <div class="col-md-3 col-6">
                 <div class="stat-item fade-in">
-                    <div class="stat-number">5+</div>
+                    <div class="stat-number">2+</div>
                     <div class="stat-label">Years</div>
                 </div>
             </div>

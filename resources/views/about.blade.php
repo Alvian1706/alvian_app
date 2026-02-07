@@ -332,9 +332,9 @@
                 <div class="profile-content">
                     <h2>Hi, Saya <span class="highlight-text">Developer</span> & <span class="highlight-text">Designer</span></h2>
                     <p>
-                        Saya adalah seorang full-stack developer dengan passion dalam menciptakan 
-                        aplikasi web yang indah dan fungsional. Dengan pengalaman lebih dari 5 tahun 
-                        di industri ini, saya telah membantu berbagai klien mewujudkan visi digital mereka.
+                        Saya adalah seorang web developer dengan passion dalam menciptakan 
+                            aplikasi web yang indah dan fungsional. Saya terus belajar dan mengembangkan 
+                                keterampilan untuk membantu klien mewujudkan visi digital mereka.
                     </p>
                     <p>
                         Keahlian saya mencakup <span class="highlight-text">web development</span>, 

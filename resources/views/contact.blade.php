@@ -302,8 +302,8 @@
                     </div>
                     <h3 class="contact-info-title">Email</h3>
                     <p class="contact-info-text">
-                        <a href="mailto:your.email@example.com" class="contact-info-link">
-                            your.email@example.com
+                        <a href="mailto:alvianyudhistirawijaya@gmail.com" class="contact-info-link">
+                            alvianyudhistirawijaya@gmail.com
                         </a>
                     </p>
                 </div>
@@ -316,8 +316,8 @@
                     </div>
                     <h3 class="contact-info-title">Telepon</h3>
                     <p class="contact-info-text">
-                        <a href="tel:+6281234567890" class="contact-info-link">
-                            +62 812-3456-7890
+                        <a href="tel:+6285707305055" class="contact-info-link">
+                            +62 857-0730-5055
                         </a>
                     </p>
                 </div>
@@ -330,7 +330,7 @@
                     </div>
                     <h3 class="contact-info-title">Lokasi</h3>
                     <p class="contact-info-text">
-                        Jakarta, Indonesia
+                        Kediri, Jawa Timur
                     </p>
                 </div>
             </div>

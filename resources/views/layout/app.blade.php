@@ -262,7 +262,7 @@
     <!-- Navigation -->
     <nav class="navbar navbar-expand-lg navbar-custom fixed-top" id="mainNav">
         <div class="container">
-            <a class="navbar-brand" href="{{ url('/') }}">Portfolio</a>
+            <a class="navbar-brand" href="{{ url('/') }}">Alvian Dev</a>
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" 
                     style="border: 2px solid var(--accent-primary);">
                 <i class="fas fa-bars" style="color: var(--accent-primary);"></i>
@@ -307,13 +307,13 @@
                 </div>
                 <div class="col-md-6 text-center text-md-end">
                     <h5 class="mb-3" style="color: var(--accent-primary); font-weight: 700;">Kontak</h5>
-                    <p style="color: var(--text-secondary);" class="mb-1"><i class="fas fa-envelope me-2"></i> email@example.com</p>
-                    <p style="color: var(--text-secondary);"><i class="fas fa-phone me-2"></i> +62 812-3456-7890</p>
+                    <p style="color: var(--text-secondary);" class="mb-1"><i class="fas fa-envelope me-2"></i> alvianyudhistirawijaya@gmail.com</p>
+                    <p style="color: var(--text-secondary);"><i class="fas fa-phone me-2"></i> +62 857-0730-5055</p>
                 </div>
             </div>
             <hr style="border-color: var(--border-color); margin: 2rem 0 1rem;">
             <div class="text-center" style="color: var(--text-muted);">
-                <p class="mb-0">&copy; 2024 Portfolio. Designed with <i class="fas fa-heart" style="color: var(--accent-secondary);"></i></p>
+                <p class="mb-0">&copy; 2026 Alvian Yudhistira Wijaya</p>
             </div>
         </div>
     </footer>
